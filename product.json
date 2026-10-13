@@ -1,8 +1,8 @@
 {
   "id": "TEST-001",
   "name": "蓝牙降噪耳机 X1",
-  "price": 3599,
+  "price": 3099,
   "currency": "CNY",
-  "stock": 0,
+  "stock": 999,
   "updated_at": "2026-10-13 17:20:03 +08:00"
 }
